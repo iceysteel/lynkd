@@ -1,3 +1,5 @@
+<?php 
+
 require 'vendor/autoload.php';
  
 use Parse\ParseClient;
@@ -11,3 +13,5 @@ $testObject->set("foo", "bar");
 $testObject->save();
 
 echo "all done!";
+
+?>
