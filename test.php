@@ -1,0 +1,2 @@
+$php = "test";
+echo $php;
