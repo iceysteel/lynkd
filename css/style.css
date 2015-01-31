@@ -3,9 +3,26 @@
     font-size: 80px;
     color: white !important;
 }
+<<<<<<< HEAD
+.panel-btn
+{
+  display: inline;
+  margin-right: 0;
+  float: right;
+}
+.course-name
+{
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+.course-panel
+{
+  margin-top: 15px;
+=======
 
 .white
 {
     color: white;
     text-shadow: 1px 1px #111111;
+>>>>>>> 29cc0127f2262941e2834c74dab5205564894318
 }
