@@ -6,7 +6,7 @@
     margin: 0 auto; 
     width: 100%; 
     position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
     padding: 100px 0;
 }
 #home 
@@ -16,7 +16,7 @@
     margin: 0 auto; 
     width: 100%; 
     position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
     padding: 200px 0;
 }
 #about 
@@ -27,7 +27,7 @@
     margin: 0 auto; 
     width: 100%; 
     position: relative; 
-    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    /*box-shadow: 0 0 50px rgba(0,0,0,0.8);*/
     padding: 100px 0;
     color: #fff;
 }
