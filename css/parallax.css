@@ -1,30 +1,34 @@
-#intro { 
- /* background: url(../img/studying.jpg) 50% 0 fixed; */
-background: solid #FFFFFF;
-  height: auto;  
-  margin: 0 auto; 
-  width: 100%; 
-  position: relative; 
-  box-shadow: 0 0 50px rgba(0,0,0,0.8);
-  padding: 100px 0;
+#intro 
+{ 
+    background: url(../img/studying.jpg) 50% 0 fixed; 
+    background: solid #FFFFFF;
+    height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 100px 0;
 }
-#home { 
-  background: url(../img/studying.jpg) 50% 0 fixed; 
-  height: auto;  
-  margin: 0 auto; 
-  width: 100%; 
-  position: relative; 
-  box-shadow: 0 0 50px rgba(0,0,0,0.8);
-  padding: 200px 0;
+#home 
+{ 
+    /*background: url(../img/studying.jpg) 50% 0 fixed; */
+    height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 200px 0;
 }
-#about { 
-  background: url(../img/studying.jpg) 50% 0 fixed; 
-  height: auto;
-  margin: 0 auto; 
-  width: 100%; 
-  position: relative; 
-  box-shadow: 0 0 50px rgba(0,0,0,0.8);
-  padding: 100px 0;
-  color: #fff;
+#about 
+{ 
+    background: url(../img/studying.jpg) 50% 0 fixed; 
+    background: solid #FFFFFF;
+    height: auto;
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 100px 0;
+    color: #fff;
 }
 
