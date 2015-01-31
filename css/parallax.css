@@ -1,7 +1,7 @@
 #intro 
 { 
-    background: url(../img/studying.jpg) 50% 0 fixed; 
-    background: solid #FFFFFF;
+    background: url(../img/studying.jpg) 50% 0 fixed;
+    background-size: cover;  
     height: auto;  
     margin: 0 auto; 
     width: 100%; 
@@ -22,7 +22,6 @@
 #about 
 { 
     background: url(../img/studying.jpg) 50% 0 fixed; 
-    background: solid #FFFFFF;
     height: auto;
     margin: 0 auto; 
     width: 100%; 
