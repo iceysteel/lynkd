@@ -1,0 +1,31 @@
+#bigtitle
+{
+    font-size: 80px;
+    color: white !important;
+}
+.panel-btn
+{
+  display: inline;
+  margin-right: 0;
+  float: right;
+}
+.course-name
+{
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+.course-panel
+{
+  margin-top: 15px;
+}
+.white
+{
+    color: white;
+    text-shadow: 1px 1px #111111;
+}
+.logo
+{
+  max-height: 130px;
+  margin-top: -38px;
+  margin-bottom: -50px;
+}
